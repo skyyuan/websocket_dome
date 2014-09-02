@@ -1,0 +1,8 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: websocket_rails
+  pool: 10
+  host: localhost
+  username: root
+  password:
